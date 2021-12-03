@@ -1,7 +1,7 @@
 # Setup
 title:               A po-Data Science project
 tagline:             'BST 260 project webpage'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'A project on Education Acheivement, using the <a href="https://exhibits.stanford.edu/data/catalog/db586ns4974" target="_blank">Stanford Education Data Archive</a>'
 url:                 http://Po-Data-Science-Project.github.io
 baseurl:             'Po-Data-Science-Project'
 paginate:            5
