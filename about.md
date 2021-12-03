@@ -1,21 +1,30 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-<p class="message">
-  Hey there! These analyses were created for BST 260 Final Project, Fall 2021, by members Han Choi, Yeeun Lee, Amy Luo, Juliet McCann, and Austin Tucker! 
-</p>
+#### About our Team
 
-## About us 
+**Han Choi**
 
-Some fun facts about the group members:
+**Yeeun Lee**
 
-* One of us grew up in Guatemala City  
-* Two of us are from California (Bay Area & LA)
-* Two of us are East Coast natives, where we all go to school now
-* All of us love potatoes (waffle fries being the *best* way to eat 'em!)
+**Amy Luo** 
 
-Have questions or suggestions? Feel free to email us at [amyluo@hsph.harvad.edu](amyluo@hsph.harvard.edu).
+**Juliet McCann**
 
-Thanks for reading!
+**Austin Tucker**
+
+Welcome to our BST 260 team! We are all students at the Harvard T.H. Chan School of Public Health in the Department of Global Health & Population 
+
+##### Some fun facts about us: 
+
+- One of us is from Guatemala
+- Two of us are from California (Bay Area & LA)
+- Two of us are East Coast natives, which is where we live now!
+
+
+##### For more questions on this project, please contact:
+
+[amyluo@hsph.harvard.edu](mailto:email@domain.com)
