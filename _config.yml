@@ -1,17 +1,17 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               A po-Data Science project
+tagline:             'BST 260 project webpage'
 description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+url:                 http://Po-Data-Science-Project.github.io
+baseurl:             'Po-Data-Science-Project'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Han Choi, Yeeun Lee, Amy Luo, Juliet McCann, Austin Tucker
+  url:               https://twitter.com/amyyyyluo
+  email:             amyluo@hsph.harvard.edu
 
 # Gems
 plugins:
